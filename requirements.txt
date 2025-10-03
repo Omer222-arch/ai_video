@@ -1,0 +1,7 @@
+requests>=2.28
+python-dotenv>=1.0
+moviepy>=1.0.3
+pydub>=0.25
+gTTS>=2.3.0
+# If you use ElevenLabs SDK, you can add it; otherwise we used direct HTTP
+# elevenlabslib>=0.2.0
